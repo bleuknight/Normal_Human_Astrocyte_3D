@@ -1,0 +1,8 @@
+title: Normal Human Astrocytes in 3D
+description: Data for "Hydrogel scaffolds promote neural gene expression and structural reorganization in human astrocyte cultures"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
